@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Native's FlatList component when dealing with dynamically sized list items. The bug showcases how inconsistent heights can lead to incorrect rendering and layout issues. The solution provides a fix using the `getItemLayout` prop to improve performance and ensure accurate rendering.
